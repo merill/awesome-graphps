@@ -23,4 +23,18 @@
 - [aka.ms/graphxray](https://aka.ms/graphxray) - Graph X-Ray browser extension to record PowerShell calls
 - [aka.ms/ge](https://aka.ms/ge) - Microsoft Graph Explorer
 
+- [aka.ms/devproxy](https://aka.ms/devproxy) - Dev Proxy browser extension to record Graph API calls
 - 
+- 
+- 
+
+## Tools
+
+- [Dev Proxy]
+- 
+- 
+- 
+
+## [YouTube](#youtube)
+
+- [Identity APIs in Microsoft Graph: Advanced Queries deep dive](https://www.youtube.com/watch?v=HJ2UVz_IKmo)
