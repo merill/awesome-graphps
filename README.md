@@ -12,7 +12,7 @@
 
 - [aka.ms/awesome-graphs](https://aka.ms/awesome-graphs) - This page with 😎 awesome Graph PowerShell links
 - [aka.ms/graphs](https://aka.ms/graphs) - Microsoft Graph PowerShell docs | Microsoft Learn
-- [aka.ms/graphps/issues] - Provide feedback and report Graph PowerShell issues | GitHub
+- [aka.ms/graphps/issues](https://aka.ms/graphps/issues) - Provide feedback and report Graph PowerShell issues | GitHub
 - [aka.ms/graphps/roadmap](https://aka.ms/graphps/roadmap) - Graph PowerShell Roadmap | GitHub
 - [aka.ms/ge](https://aka.ms/ge) - Microsoft Graph Explorer
 - [aka.ms/devproxy](https://aka.ms/devproxy) - Dev Proxy browser extension to record Graph API calls
