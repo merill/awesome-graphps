@@ -6,34 +6,29 @@
 
 - [aka.ms](#akams)
 - [Tools](#tools)
-- [Community](#community)
 - [YouTube](#youtube)
-- [Twitter](#twitter)
-- [LinkedIn](#linkedin)
-- [Blogs](#blogs)
-
 
 ## aka.ms
 
+- [aka.ms/awesome-graphs](https://aka.ms/awesome-graphs) - This page with 😎 awesome Graph PowerShell links
 - [aka.ms/graphs](https://aka.ms/graphs) - Microsoft Graph PowerShell docs | Microsoft Learn
 - [aka.ms/graphps/issues] - Provide feedback and report Graph PowerShell issues | GitHub
 - [aka.ms/graphps/roadmap](https://aka.ms/graphps/roadmap) - Graph PowerShell Roadmap | GitHub
-
-
-- [aka.ms/graphxray](https://aka.ms/graphxray) - Graph X-Ray browser extension to record PowerShell calls
 - [aka.ms/ge](https://aka.ms/ge) - Microsoft Graph Explorer
-
 - [aka.ms/devproxy](https://aka.ms/devproxy) - Dev Proxy browser extension to record Graph API calls
-- 
-- 
-- 
+- [aka.ms/graphref](https://aka.ms/graphref) - Microsoft Graph REST API reference
+- [aka.ms/graphxray](https://aka.ms/graphxray) - Graph X-Ray browser extension to record PowerShell calls
 
 ## Tools
 
-- [Dev Proxy]
-- 
-- 
-- 
+- [aka.ms/ge](https://aka.ms/ge) - Microsoft Graph Explorer
+- [aka.ms/devproxy](https://aka.ms/devproxy) - Dev Proxy browser extension to record Graph API calls
+- [aka.ms/graphxray](https://aka.ms/graphxray) - Graph X-Ray browser extension to record PowerShell calls
+- [graphpowershell.merill.net](https://graphpowershell.merill.net) - Helper to convert Azure AD PowerShell and MSOnline scripts to Graph PowerShell
+- [Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations using PowerShell DSC [![stars](https://badgen.net/github/stars/microsoft/Microsoft365DSC)](https://badgen.net/github/stars/microsoft/Microsoft365DSC)
+- [MicrosoftGraphPS](https://github.com/KnudsenMorten/MicrosoftGraphPS) - Version manager for the Graph PowerShell SDK. [![stars](https://badgen.net/github/stars/KnudsenMorten/MicrosoftGraphPS)](https://badgen.net/github/stars/KnudsenMorten/MicrosoftGraphPS)
+- [MSIdentityTools aka.ms/msid](https://github.com/AzureAD/MSIdentityTools) - Collection of useful cmdlets for common Entra functionality. [![stars](https://badgen.net/github/stars/AzureAD/MSIdentityTools)](https://badgen.net/github/stars/AzureAD/MSIdentityTools)
+
 
 ## [YouTube](#youtube)
 
